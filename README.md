@@ -2,6 +2,8 @@
 
 A Django web application that allows users to perform CRUD operations on a database and verify your users.
 
+###### This is a project based on the YouTube tutorial of Fazt
+
 ### Requirements 
 
 * Python 3.10.1
